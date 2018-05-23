@@ -64,7 +64,7 @@ https://play.google.com/store/apps/details?id=org.getlantern.lantern
 ### 1. ShadowSocks(SS)
 apt-get install shadowsocks-libev
 
-### 2. Goproxy
+### 2. Goproxy（已删除）
 项目地址：https://github.com/phuslu/goproxy
 
 最新版下载地址：https://github.com/phuslu/goproxy-ci/releases或https://github.com/phuslu/goproxy/releases
