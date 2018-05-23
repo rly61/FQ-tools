@@ -15,9 +15,9 @@ FQ工具收集，避免去stars里去找。
 ### 3. ShadowSocks(SS)
 项目地址：https://github.com/shadowsocks/shadowsocks-windows
 
-最新版下载地址：https://github.com/shadowsocks/shadowsocks-windows/releases或http://shadowsocks.org/en/download/clients.html
+最新版下载地址：https://github.com/shadowsocks/shadowsocks-windows/releases 或http://shadowsocks.org/en/download/clients.html
 
-### 4. Goproxy
+### 4. Goproxy(已删除)
 项目地址：https://github.com/phuslu/goproxy
 
 最新版下载地址：https://github.com/phuslu/goproxy-ci/releases或https://github.com/phuslu/goproxy/releases
@@ -41,7 +41,7 @@ FQ工具收集，避免去stars里去找。
 ### 2. ShadowSocks(SS)
 项目地址：https://github.com/shadowsocks/shadowsocks-android
 
-最新版下载地址：https://github.com/shadowsocks/shadowsocks-android/releases或Google Play或http://shadowsocks.org/en/download/clients.html
+最新版下载地址：https://github.com/shadowsocks/shadowsocks-android/releases 或Google Play或http://shadowsocks.org/en/download/clients.html
 
 https://play.google.com/store/apps/details?id=com.github.shadowsocks
 
@@ -56,7 +56,7 @@ https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn
 ### 6. 蓝灯(Lantern)
 项目地址：https://github.com/getlantern/lantern
 
-最新版下载地址：https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk或Google Play
+最新版下载地址：https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk 或Google Play 
 
 https://play.google.com/store/apps/details?id=org.getlantern.lantern
 
