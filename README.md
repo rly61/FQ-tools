@@ -8,9 +8,9 @@ FQ工具收集，避免去stars里去找。
 最新版下载地址：https://openvpn.net/index.php/open-source/downloads.html
 
 ### 2. ShadowSocksR(SSR)
-项目地址：https://github.com/shadowsocksr/shadowsocksr-csharp
+项目地址：https://github.com/shadowsocksrr/shadowsocksr-csharp
 
-最新版下载地址：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
+最新版下载地址：https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 
 ### 3. ShadowSocks(SS)
 项目地址：https://github.com/shadowsocks/shadowsocks-windows
